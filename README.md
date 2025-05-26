@@ -1,15 +1,26 @@
 [![MasterHead](![Coding - Pixel Jeff](https://github.com/user-attachments/assets/46ca5579-a171-489c-a4e1-83f99c8f5f92)
-)
+
 <h1 align="center">Hi 👋, I'm Mohammed Sami Ali</h1>
 <h3 align="center">Data Wizard in Training — Spells Written in SQL & Python- from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kraven681&label=Profile%20views&color=0e75b6&style=flat" alt="kraven681" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Data Science/Machine learning/Artificial Intelligence I**
+- 🌱 I’m currently learning I'm expanding my expertise in Data Science, with a focus on Python programming, Machine Learning, and advanced statistical modeling.
+-  💪I have a strong interest in Data Analytics, Financial Analysis, and Business Intelligence. I'm particularly enthusiastic about using tools and technologies like Python, SQL, Microsoft Excel, and Power BI to extract insights and drive data-informed decisions.
+- 🤝I'm eager to collaborate on data analytics projects, financial modeling case studies, and business intelligence initiatives. Whether it's developing dashboards, cleaning and analyzing datasets, or building predictive models, I'm always ready to contribute, learn, and grow alongside a like-minded data-driven community.
+  
+  
+- 🌍 Goal Is To leverage data to solve real-world problems, optimize decision-making, and contribute to impactful business outcomes through innovative and ethical data practices.
 
-- 📫 How to reach me **mohdsamiali758@gmail.com**
+- 🔭I’m committed to continuous learning and actively working through real-world case studies and projects to sharpen my skills. **Data analyst,Data science**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1PjOysgxVEKMP9lOuM1Bcr9p4hCvng7Tz/edit?usp=sharing&ouid=112192758416212645440&rtpof=true&sd=true](https://docs.google.com/document/d/1PjOysgxVEKMP9lOuM1Bcr9p4hCvng7Tz/edit?usp=sharing&ouid=112192758416212645440&rtpof=true&sd=true)
+
+- 👨‍💻 All of my projects are available at [https://github.com/kraven681/MY-PROJECT](https://github.com/kraven681/MY-PROJECT)
+
+- 📫 How to reach me **📧Email: mohdsamiali758@gmail.com 🔗Linkedin: www.linkedin.com/in/sami-ali-datascientist**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ek3gQhMSQve7ckGXB1RLSDeVPKVInAKB/view?usp=sharing](https://drive.google.com/file/d/1ek3gQhMSQve7ckGXB1RLSDeVPKVInAKB/view?usp=sharing)
 
 - ⚡ Fun fact **I watch Movies alot**
 
@@ -26,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kraven681&show_icons=true&locale=en" alt="kraven681" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kraven681&" alt="kraven681" /></p>
+
+
