@@ -20,8 +20,6 @@
 
 - 📫 How to reach me **📧Email: mohdsamiali758@gmail.com 🔗Linkedin: www.linkedin.com/in/sami-ali-datascientist**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ek3gQhMSQve7ckGXB1RLSDeVPKVInAKB/view?usp=sharing](https://drive.google.com/file/d/1ek3gQhMSQve7ckGXB1RLSDeVPKVInAKB/view?usp=sharing)
-
 - ⚡ Fun fact **I watch Movies alot**
 
 <h3 align="left">Connect with me:</h3>
