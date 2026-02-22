@@ -16,11 +16,11 @@
 - I’m committed to continuous learning and actively working through real-world case studies and projects to sharpen my skills. **Data analyst,Data science**
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/kraven681/MY-PROJECT](https://github.com/kraven681/MY-PROJECT)
+- All of my projects are available at [https://github.com/kraven681/MY-PROJECT](https://github.com/kraven681/MY-PROJECT)
 
-- 📫 How to reach me **📧Email: mohdsamiali758@gmail.com**
+- How to reach me **📧Email: mohdsamiali758@gmail.com**
 
-- ⚡ Fun fact **I watch Movies alot**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,7 +33,5 @@
 
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kraven681&" alt="kraven681" /></p>
 
 
